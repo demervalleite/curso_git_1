@@ -1,9 +1,13 @@
 testando repo
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 d
 f
 g
+=======
+a
+>>>>>>> segundo_branch
 =======
 a
 >>>>>>> segundo_branch
