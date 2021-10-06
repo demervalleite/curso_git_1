@@ -1,5 +1,9 @@
 testando repo
+<<<<<<< HEAD
 
 d
 f
 g
+=======
+a
+>>>>>>> segundo_branch
