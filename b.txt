@@ -17,4 +17,10 @@ este e o segundo branch
 esse é o primeiro branch
 
 vamos testar
+<<<<<<< HEAD
+>>>>>>> primeiro_branch
+=======
+
+
+agora aprendi git merge 
 >>>>>>> primeiro_branch
