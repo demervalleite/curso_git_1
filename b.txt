@@ -1,6 +1,7 @@
 testando atuaizacao projeto 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 a
 b
 c
@@ -12,3 +13,8 @@ este e o segundo branch
 =======
 este e o segundo branch
 >>>>>>> segundo_branch
+=======
+esse é o primeiro branch
+
+vamos testar
+>>>>>>> primeiro_branch
